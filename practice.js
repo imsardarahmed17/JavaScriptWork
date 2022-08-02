@@ -106,6 +106,12 @@ let sumNum = (x,y) => {
     console.log(x + y);
 }
 
+let value = 255
+
+
+
+
+
 
 
 
