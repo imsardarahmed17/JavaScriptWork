@@ -3,3 +3,6 @@ if (x>5) {
 } else {
     console.log("null");
 }
+
+
+let myName = "samalik"
