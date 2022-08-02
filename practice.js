@@ -100,9 +100,11 @@ else {
 
 sonCheckWeather()
 
-console.log("Hello world");
+console.log("hello samalik");
 
-
+let sumNum = (x,y) => {
+    console.log(x + y);
+}
 
 
 
