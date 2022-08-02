@@ -5,4 +5,4 @@ if (x>5) {
 }
 
 
-let myName = "samalik"
+let myName = "sardar ahmed"
