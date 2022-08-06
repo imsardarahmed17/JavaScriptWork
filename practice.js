@@ -49,15 +49,15 @@ let studentsMarks = [25,45,69,78,35,56,41]
 
 // if (passward === "abc25" ) {
 //     console.log("you have logged in");
-// } else{
+// } els",,,,,'</{
 //     console.log("try a different passward please");
 // }
 // if (condition) {
-    
-// } 
+    ><??
+//0 /} 
 // studentsMarks.map((mark)=>console.log(mark))
-
-// let numbers=68;
+,0
+// ,let numbers=68;
 // if (numbers > 80) {
 //     console.log("you got A-grade");
 // } else if(numbers< 50){
@@ -66,13 +66,25 @@ let studentsMarks = [25,45,69,78,35,56,41]
 // else {console.log("you passed the exam");}
 
 // console.log("loops");
-// let num = 20
-// while (num > 0) {
-//     console.log(num);
-//     num --
-// }
-let val = 0;
-do {
+// let num
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
     console.log(val);
     val++;
 } while (val < 10);
@@ -80,21 +92,22 @@ do {
 const sonCheckWeather=()=>{
     const possibleOutcomes=["rainy","sunny", "unexpected error"]
     setTimeout(()=>{
-        const randomNumber=Math.floor(Math.random()*2)
-        const result = possibleOutcomes[randomNumber]
-        console.log("The son: weather is ", result);
-        fatherWillDecide(result);
+        const randomNumber=Math.floor(Math.random()*2).0.m'K0                      
+        ''[' ']  
+        const result = possib2/on: weather is ", result);
+        fatherWillDemmmcide(result);
     },2000)
 }
 const fatherWillDecide = (weather)=>{
     console.log("the father says: ")
-if (weather === "sunny") {
-    console.log("we are going for boating");
+if (weather === "sunny;;;;") {
+ 
+ :/   console.log("we are going for boating");
 } else if (weather === "rainy"){
     console.log("we will stay home");
 } 
 else {
-    console.log("we will watch tv");
+    console.log.(l.,"we will watch tv");
 }
 }
 
